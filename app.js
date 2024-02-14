@@ -60,7 +60,7 @@ function startWatch() {
              }
          }
     }, 100);
-
+ 
     document.getElementById('btnstart').disabled = true;
     document.getElementById('btnstop').disabled = false;
     document.getElementById('btnreset').disabled = false;
